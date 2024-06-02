@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Package
+  - Customer
+  - Speed pad
+  - World objects
   layers:
   - Default
   - TransparentFX
